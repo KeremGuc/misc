@@ -1,2 +1,5 @@
-.pl
+# Ignore Perl files
+*.pl
+
+# Ignore PEM folder
 PEM/
